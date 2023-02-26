@@ -1,0 +1,34 @@
+
+Bug ID	1			
+
+Summary:The system allows to register 2 teachers with the same e-mail
+
+Severity:Low	
+Priority: High		
+Created by:	Vasja Tester	Assigned to: A developer		
+Status:	Open	
+Attachment: {e.g. a link to a screenshot}
+Environment:	Win10, Google Chrome 13		
+Found version	1.0		
+Resolved version			
+Steps to reproduce:		
+
+1. Open Teachers page				
+
+2. Click "Create new"				
+
+3. Create Teacher1: enter "e-mail1"				
+
+4. Fill-in the rest of the mandatory data
+5. Save				
+
+6. Click "Create new"			
+
+7. Create Teacher2: enter "e-mail1" used for Teacher1			
+
+8. Fill-in the rest of the mandatory data		
+
+9. Save
+
+Actual result: The system allows to register 2 teachers with the same e-mail
+Expected result: The error message appears saying "the user with an e-mal XXX already exists"
