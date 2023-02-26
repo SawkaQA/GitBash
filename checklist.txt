@@ -1,0 +1,24 @@
+Cheklist
+
+Registation:
+Email: Passed
+Social: Failed
+Valid form: Passed
+
+Authorization:
+User auth: Passed
+User no auth: Passed
+Recovery pass: Passed
+Valid form: Passed
+
+Profile:
+
+Rename: Passed
+Edit email: Failed
+Edit pass: Skipped
+Valid form: Passed
+Subscribe: Passed
+Delete account: No run
+
+Date: 26.02.2023
+Time: 17:32 GMT+3
