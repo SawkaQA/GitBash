@@ -1,6 +1,5 @@
 
-Bug ID	1			
-
+Bug ID	12	
 Summary:The system allows to register 2 teachers with the same e-mail
 
 Severity:Low	
