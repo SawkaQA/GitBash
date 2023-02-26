@@ -5,7 +5,7 @@ Email: Passed
 Social: Failed
 Valid form: Passed
 
-Autorization:
+Authorization:
 User auth: Passed
 User no auth: Passed
 Recovery pass: Passed
@@ -17,5 +17,7 @@ Rename: Passed
 Edit email: Failed
 Edit pass: Skipped
 Valid form: Passed
-Subcribe: Passed
+Subscribe: Passed
 Delete account: No run
+
+Date: 26.02.2023
