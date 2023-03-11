@@ -9,8 +9,8 @@ GitHub. HW_2
 - Mobile testing
 
 2. Запушить все ветки на внешний репозиторий - **git push --all origin или git push -u origin (branch name)**
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - **git checkout BugReports, cat > report.txt**
-4. Запушить структуру багрепорта на внешний репозиторий - **git status, git add ., git commit - m "comment" -> git push -u origin branch name**
+3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - **git checkout BugReports -> cat > report.txt**
+4. Запушить структуру багрепорта на внешний репозиторий - **git status -> git add . -> git commit - m "comment" -> git push -u origin branch name**
 5. Вмержить ветку Bag Reports в Main - **git checkout main -> git merge BugReports**
 6. Запушить main на внешний репозиторий - **git push**
 7. В ветке CheckLists набросать структуру чек листа - **git checkout checklists -> cat > checklist.txt**
