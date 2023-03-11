@@ -12,7 +12,6 @@ Recovery pass: Passed
 Valid form: Passed
 
 Profile:
-
 Rename: Passed
 Edit email: Failed
 Edit pass: Skipped
