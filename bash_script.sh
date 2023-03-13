@@ -1,17 +1,9 @@
 #!/bin/bash
-doCreate() {
-	cd 1
-	mkdir qa1 qa2 qa3
-	cd qa1
-	touch 1.txt 2.txt 3.txt 4.json 5.json
-	var = 'ls -l'
-
-	echo $var
-}
-doCreate
-
-doMove() {
-	mv 1.txt/qa1 2.txt/qa2
-}
-doMove
+cd folder_1
+mkdir f1 f2 f3
+cd f1
+touch t1.txt t2.txt t3.txt j1.json j2.json
+mkdir f4 f5 f6
+ls -la
+mv t1.txt t2.txt -t ../f2
 
